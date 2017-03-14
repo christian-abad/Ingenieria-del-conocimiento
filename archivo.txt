@@ -1,0 +1,5 @@
+hijo_de(hijo,padre)
+hijo_de(padre,abuelo)
+le_gusta(alguien,algo)
+le_gusta(alguien,algo)
+practica(alguien,algo)
